@@ -1,0 +1,7 @@
+C:\Users\ritgupta11\source\repos\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.AssemblyReference.cache
+C:\Users\ritgupta11\source\repos\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\ritgupta11\source\repos\ExceptionDemo\bin\Debug\ExceptionDemo.exe.config
+C:\Users\ritgupta11\source\repos\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+C:\Users\ritgupta11\source\repos\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+C:\Users\ritgupta11\source\repos\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+C:\Users\ritgupta11\source\repos\ExceptionDemo\obj\Debug\ExceptionDemo.pdb
